@@ -6,7 +6,7 @@ import TotalScore from "./TotalScore";
 import RoleDice from "./RoleDice";
 import { Button, OutlineButton } from "../styled/Button";
 import Rules from "./Rules";
-import RulesModal from "./RulesModal";
+import RulesModal from "./Rulesmodal";
 
 const GamePlay = () => {
   const [score, setScore] = useState(0);
