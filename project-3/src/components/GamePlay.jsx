@@ -17,7 +17,7 @@ const GamePlay = () => {
   const navigate = useNavigate();
 
   useEffect(() => {
-    if (score > 10) { // Navigate to Winner page if score is greater than 20
+    if (score > 15) { // Navigate to Winner page if score is greater than 20
       navigate("/winner");
     }
   }, [score, navigate]);
