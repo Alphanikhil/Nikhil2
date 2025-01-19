@@ -23,7 +23,7 @@ const RulesModal = ({ onClose }) => {
             </ul>
           </li>
           <li>
-            Aim to score <strong> 10 points</strong> to win a
+            Aim to score <strong> 15 points</strong> to win a
             <Highlight> free coffee</Highlight>!
           </li>
         </RuleList>
